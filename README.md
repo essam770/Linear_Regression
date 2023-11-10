@@ -1,1 +1,2 @@
 # Linear_Regression 
+Numpy package was used to train the linear regression model using gradient descent and for predictions using linear gradient descent model. Synthetic data was generated to test and compare the two obtained linear models using the least square method. The above task was implemented another two times, one using scikit-learn package and the other using simple neural network and tensorflow. 
